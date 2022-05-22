@@ -1,4 +1,4 @@
-# VkartWeb E-Commerce Web Application 🪄 - [LIVE DEMO]
+# VkartWeb E-Commerce Web Application 🪄
 
 An Ecommerce Website, web-based application where users can view , Login / SignUp and shop for product by viewing the detailed description of product with their prices and they can also make payment for the order with the help of paytm payment gateway by debit card/credit card or upi.
 
