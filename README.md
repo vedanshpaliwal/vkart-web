@@ -1,12 +1,13 @@
 # VkartWeb E-Commerce Web Application 🪄 - [LIVE DEMO]
 
-Browser based Blockchain, NFT based game where users can mint their favourite character from Harry Potter to fight with the Villain (Voldemort). One must have a wallet Installed to play this game(connected to Rinkeby Testnet)🔮. Users can also see their NFTs on Opensea!
+An Ecommerce Website, web-based application where users can view , Login / SignUp and shop for product by viewing the detailed description of product with their prices and they can also make payment for the order with the help of paytm payment gateway by debit card/credit card or upi.
 
 ![Screenshot 2022-05-22 002559](https://user-images.githubusercontent.com/67954788/169680586-59445ada-399c-46ce-bb40-8d574e8a73d8.png)
 ![Screenshot 2022-05-22 002617](https://user-images.githubusercontent.com/67954788/169680591-16535750-7d45-4a28-b846-885ca59c20f2.png)
 ![Screenshot 2022-05-22 002708](https://user-images.githubusercontent.com/67954788/169680596-a88e33c8-da4c-4775-998b-f9a1ba4c0e17.png)
+![Screenshot 2022-05-22 111756](https://user-images.githubusercontent.com/67954788/169680822-130e99ba-69ca-4c82-8a22-337b83bcf0fe.png)
 ![Screenshot 2022-05-22 002741](https://user-images.githubusercontent.com/67954788/169680630-5e1e80ca-3094-4acc-9387-2094ced9f4d0.png)
-
+![Screenshot 2022-05-22 111828](https://user-images.githubusercontent.com/67954788/169680828-4121a448-82fa-4d20-a008-6a61504c5fe8.png)
 
 ## Tools, Languages & Libraries used:
 * ReactJS
@@ -15,7 +16,6 @@ Browser based Blockchain, NFT based game where users can mint their favourite ch
 * MongoDB
 * NodeJs/ExpressJs
 * Paytm Payment Gateway
-* 
 
 ## Contributions to this repo are WELCOME ⚡️🙌🏻
 - :art: give suggestions on how to improve the UI design
