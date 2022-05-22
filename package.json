@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --experimental-modules --es-module-specifier-resolution=node server.js",
+    "client-install": "cd client && npm install",
+    "client-build": "cd client && npm run build",
+    "heroku-postbuild": "npm run client-install && npm run client-build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^9.8.1",
+    "formidable": "^2.0.1",
+    "https": "^1.0.0",
+    "mongoose": "^6.0.14",
+    "nodemodule": "^0.3.0",
+    "nodemon": "^2.0.15",
+    "react-image-magnify": "^2.7.4",
+    "uuid": "^8.3.2"
+  }
+}
