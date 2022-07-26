@@ -12,7 +12,7 @@ An Ecommerce Website, web-based application where users can view , Login / SignU
 
 In the project directory, you can run:
 
-#clone a repo using command ### `git clone -b https://github.com/vedanshpaliwal/vkart-web.git`
+#clone a repo using command `git clone -b https://github.com/vedanshpaliwal/vkart-web.git`
 
 ### `cd client`
 
