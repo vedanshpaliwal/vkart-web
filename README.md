@@ -8,6 +8,28 @@ An Ecommerce Website, web-based application where users can view , Login / SignU
 ![Screenshot 2022-05-22 002741](https://user-images.githubusercontent.com/67954788/169680630-5e1e80ca-3094-4acc-9387-2094ced9f4d0.png)
 ![Screenshot 2022-05-22 111828](https://user-images.githubusercontent.com/67954788/169680828-4121a448-82fa-4d20-a008-6a61504c5fe8.png)
 
+## Available Scripts
+
+In the project directory, you can run:
+
+#clone a repo using command ### `git clone -b https://github.com/vedanshpaliwal/vkart-web.git`
+
+### `cd client`
+
+### `npm start`
+
+Above commands used to start react app
+
+### `cd server` 
+
+### `npm start`
+
+Above two commands used to start the server
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+##
+
 ## Tools, Languages & Libraries used:
 * ReactJS
 * React-Redux
