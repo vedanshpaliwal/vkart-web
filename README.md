@@ -26,7 +26,7 @@ Above commands used to start react app
 
 Above two commands used to start the server
 
-Runs the app in the development mode.\
+Runs the app and 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ##
 
